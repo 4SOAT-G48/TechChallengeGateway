@@ -1,2 +1,2 @@
-# TechChallengeGateway
-Gateway para direcionar as chamadas de endpoints para o microserviço correto
+# TechChallengeProject
+Este projeto reune todas as partes referente aos serviços.
